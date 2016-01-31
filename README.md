@@ -3,7 +3,7 @@ RetroBand
 
 Retro band is open source activity tracker project using Arduino and Android.
 
-
+[LightBlue Bean](https://punchthrough.com/bean) is an Arduino compatible low-power board which already includes Bluetooth LE and an accelerometer from Punch Through design
 
 ==========
 [How-To: RetroBand](http://www.hardcopyworld.com/ngine/aduino/index.php/archives/871)
